@@ -1,3 +1,3 @@
-# pruebagit
+# prueba
 
-Prueba de integracion con git
+Integration test whit github.
